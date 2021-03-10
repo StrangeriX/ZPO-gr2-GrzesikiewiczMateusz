@@ -1,0 +1,17 @@
+Wzorzec strategi pokazuje sposób w jaki można zastąpić dziedziczenie w kompozycję.
+Zamiast tworzyć klasy i potem używać ich (lub nie) tworzymy interfejsy i "małe" klasy.
+Wzorzec Strategi określa, że np interfejs strategii nie zna szczegółów algorytmów. To użytkownik ma wybrać odpowiedni wariant.
+
+
+
+
+
+Wady i zalety:
+
++ Możliwość zmiany algorytmu w obrębie obiektu w trakcie działania programu
++ Możliwość izolacji szczegółów implementacyjnych
++ Zamiana dziedziczenia na kompozycję
+
+- Klient musi być świadom różnic pomiędzy poszczególnymi strategiami
+- Konieczność rozbudowy kodu o kolejne klasy i interfejsy
+- Brak skuteczności przy małej ilości algorytmów
