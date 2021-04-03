@@ -1,1 +1,0 @@
-# ZPO-gr2-GrzesikiewiczMateusz

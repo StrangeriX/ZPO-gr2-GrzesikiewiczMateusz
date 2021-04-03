@@ -1,0 +1,1 @@
+Wzorzec obserwator jest najczęściej używany przy tworzeniu interfejsów, które mają reagować na pewne zmiany. Można go używać również jako elementu powiadamiającego o zmianach jak przykładowa stacja meteorologiczna lub podobne programy, w których chcemy zostawać powiadamiani o zmianach.
