@@ -1,0 +1,2 @@
+Najczęściej wykorzystuje się ten wzorzec przy systemach, w których potrzebujemy dużej swobody wyboru oraz mieszania elementów takich jak składniki w daniu, powiadomienia( tylkosms, sms+messanger itd.)
+Wzorzec umożliwia stworzenie przejrzystej i łatwej w modyfikacji struktury do takich systemów.
