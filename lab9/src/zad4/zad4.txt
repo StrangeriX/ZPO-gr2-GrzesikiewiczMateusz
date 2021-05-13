@@ -1,0 +1,7 @@
+Są dwie możliwości implementacji Singletona:
+
+1. Implementacja naiwna
+2. Implementacja z bezpieczeństwem wątków
+
+Pierwsza jest łątwa w implementacji jednak zużywa zasoby nawet, jeśli nie została nigdzie wykorzystana.
+Druga mimo obniżenia wydajności poprzez synchronizowanie wątków zapewnia bezpieczeństwo wątków oraz lazy loading

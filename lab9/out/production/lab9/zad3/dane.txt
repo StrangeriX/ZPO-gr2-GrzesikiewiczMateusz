@@ -1,0 +1,12 @@
+Styczen:1200
+Luty:1000
+Marzec:1350
+Kwiecien:1050
+Maj:1500
+Czerwiec:1300
+Lipiec:1605
+Sierpien:1234
+Wrzesien:1425
+Pazdziernik:1123
+Listopad:1414
+Grudzien:1254

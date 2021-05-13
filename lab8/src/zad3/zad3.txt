@@ -1,0 +1,2 @@
+Django- framework do języka python. Tworzy szablon modeli oraz widoków. Każda sekcja jest odseparowana od siebie przez co zmiany lub usunięcie kodu w jednej nie wpływa na kod w innej.
+React.js- framework do języka javascript. Tworzy szablon aplikacji webowej podzielonej na komponenty w których każdy z nich jest oddzielną niezależną częścią aplikacji
