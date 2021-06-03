@@ -1,2 +1,2 @@
-Singleton jako takzwany antywzorzec jest coraz rzadziej używny w środowisku programistycznym.
+Singleton jako tak zwany antywzorzec jest coraz rzadziej używny w środowisku programistycznym.
 Jego najczęstszym zastosowaniem mogą być połączenia z bazą danych, z którego korzysta wiele fragmentów programu.

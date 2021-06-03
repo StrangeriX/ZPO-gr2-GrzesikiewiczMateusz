@@ -2,25 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="398d7866-456e-4037-a85e-96b782047ff6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad3/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad3/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad3/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad3/ShapeFasada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/Bold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/Fonts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/FontsFasada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/Italic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7/src/zad4/openFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab8/src/zad4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab8/src/zad4/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab8/src/zad4/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab8/src/zad4/Sicilian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/DaneFinansowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad4/SingletonNaiwny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad4/SingletonZbezpieczenstwemWatkow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/BasicSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/FrenchLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/PolishLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/PremiumSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/StandardSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/src/zad4/VoiceMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/zad5/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/zad5/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/FileFasade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/IFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/zad1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/src/zad1/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/src/zad1/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad1/zad1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/zad1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BullyAlgorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab10" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

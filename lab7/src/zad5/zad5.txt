@@ -1,0 +1,2 @@
+Fasady używamy, aby stworzyć łatwy i prosty interfejs do pracy
+Adapter jest używany w sytuacjach, w których interfejs musi być polimorficzny.
