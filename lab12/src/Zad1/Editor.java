@@ -6,8 +6,9 @@ public class Editor {
     private State state;
 
     public Editor(){
-        this.circle = new CircleShape();
-        this.line = new LineShape();
+        this.circle = new CircleShape(this);
+        this.line = new LineShape(this);
+        this.state = null;
     }
 
     public void setState(State $state) {
@@ -16,6 +17,12 @@ public class Editor {
 
     public State getState() {
         return state;
+    }
+    public State getLineState(){
+        return this.line;
+    }
+    public State getCircleState(){
+        return this.circle;
     }
     public State drawLine(){
         return this.line;

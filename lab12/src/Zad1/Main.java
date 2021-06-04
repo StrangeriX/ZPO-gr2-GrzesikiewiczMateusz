@@ -6,6 +6,6 @@ public class Main {
         editor.drawLine().draw();
         System.out.println(editor.getState());
         editor.drawCircle().draw();
-        editor.getState();
+        System.out.println(editor.getState());
     }
 }

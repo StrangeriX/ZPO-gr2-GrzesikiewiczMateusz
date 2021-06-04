@@ -9,12 +9,8 @@ public class LineShape extends State{
 
     @Override
     public void draw() {
+        editor.setState(editor.getLineState());
         System.out.println("I draw line");
     }
 
-    @Override
-    public State getShape() {
-        editor.setState(this);
-        return new LineShape();
-    }
 }
